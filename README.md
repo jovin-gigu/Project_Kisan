@@ -15,8 +15,8 @@ Project Kisan is a React-based web application designed to help farmers diagnose
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/project-kisan.git
-   cd project-kisan
+   git clone https://github.com/your-username/project_kisan.git
+   cd project_kisan
    ```
 
 2. **Install dependencies:**
